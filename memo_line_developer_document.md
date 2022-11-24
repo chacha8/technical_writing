@@ -13,6 +13,6 @@
 
 ## [LINE SDKに組み込まれているログインボタンを使う](https://developers.line.biz/ja/docs/android-sdk/integrate-line-login/#use-button)のサンプルコード
 - 気になったこと
-    - Kotlinのサンプルコードがあると嬉しい…><
+    - Kotlinのサンプルコードがない
 - どのように修正するか
-    - JavaとKotlin両方のソースコードを用意してあげる
+    - JavaとKotlin両方のソースコードを用意する
